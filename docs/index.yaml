@@ -9,6 +9,6 @@ entries:
     digest: a589d5ac53d3dcb318f1b1907c137269e950b99464e98de65666eb09515b3cda
     name: metallb
     urls:
-    - https://pdorczuk.github.io/helm-charts/docs/metallb-0.1.0.tgz
+    - https://pdorczuk.github.io/helm-charts/metallb-0.1.0.tgz
     version: 0.1.0
 generated: 2018-12-14T12:15:24.528384483-05:00
